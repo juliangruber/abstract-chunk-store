@@ -20,6 +20,7 @@ npm install abstract-chunk-store
 - [immediate-chunk-store](https://npmjs.com/package/immediate-chunk-store)
 - [cache-chunk-store](https://npmjs.com/package/cache-chunk-store)
 - [chunk-store-stream](https://npmjs.com/package/chunk-store-stream)
+- [chunk-store-multi-get](https://github.com/juliangruber/chunk-store-multi-get)
 
 Send a PR adding yours if you write a new one.
 
